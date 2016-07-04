@@ -1,0 +1,14 @@
+获取sdcenter调试日志看看,关键字VolumeMountPoint;FileShare;IPG-5731_3
+
+huangyh(黄英华) 14:40:18
+tsafedoc
+IsEnableSDisk;NetWorkShareFolder;SafeDoc;SafeDisk;SafeInject;sdconfig
+huangyh(黄英华) 14:40:34
+所有进程
+
+huangyh(黄英华) 10:18:27
+tsafedoc
+IsEnableSDisk;NetWorkShareFolder;SafeDoc;SafeDisk;SafeInject;sdconfig;SafeDiskMoveFile
+
+sdcenter
+ProtectedDir;SafeGWPolicy;SDPolicy
